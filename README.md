@@ -3,7 +3,7 @@
 # Stats, stats, always nice stats
 ![Lalai's github stats](https://github-readme-stats.vercel.app/api?username=lhfaguiar&count_private=true&theme=dracula&show_icons=true)
 
-# Favorite means not most used (Top 10 most used?)
+# Favorite means not most used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhfaguiar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
