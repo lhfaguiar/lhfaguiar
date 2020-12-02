@@ -8,7 +8,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhfaguiar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # WAKATIME
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lhfaguiar)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@lhfaguiar/457708f6-4359-4d89-ad41-e20b726c5d89.png" /></a>
 
