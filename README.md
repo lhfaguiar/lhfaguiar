@@ -1,7 +1,7 @@
 ### Lalai Lama
 
 # Stats, stats, always nice stats
-![Lalai's github stats](https://github-readme-stats.vercel.app/api?username=lhfaguiar&theme=dracula&show_icons=true)
+![Lalai's github stats](https://github-readme-stats.vercel.app/api?username=lhfaguiar&count_private=true&theme=dracula&show_icons=true)
 
 # Favorite means not most used (Top 10 most used?)
 
