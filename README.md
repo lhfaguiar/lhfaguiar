@@ -10,7 +10,7 @@
 # WAKATIME
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lhfaguiar)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@lhfaguiar/457708f6-4359-4d89-ad41-e20b726c5d89.png" /></a>
 
 <!--
 **lhfaguiar/lhfaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
