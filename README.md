@@ -5,7 +5,12 @@
 
 # Favorite means not most used (Top 10 most used?)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhfaguiar&layout=compact)](https://github.com/lhfaguiar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhfaguiar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# WAKATIME
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lhfaguiar)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **lhfaguiar/lhfaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # On being transgender
