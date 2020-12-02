@@ -5,8 +5,7 @@
 
 # Favorite means not most used (Top 10 most used?)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhfaguiar&langs_count=10)](https://github.com/lhfaguiar/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhfaguiar&layout=compact)](https://github.com/lhfaguiar/github-readme-stats)
 <!--
 **lhfaguiar/lhfaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # On being transgender
