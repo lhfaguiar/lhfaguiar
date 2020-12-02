@@ -1,4 +1,13 @@
-### Hi there 👋
+### Lalai Lama
+
+# Stats, stats, always nice stats
+![Lalai's github stats](https://github-readme-stats.vercel.app/api?username=lhfaguiar&theme=dracula&show_icons=true)
+
+
+
+# On being transgender
+
+# On being disabled
 
 <!--
 **lhfaguiar/lhfaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
