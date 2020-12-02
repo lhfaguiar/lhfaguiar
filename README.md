@@ -11,8 +11,7 @@
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@lhfaguiar/457708f6-4359-4d89-ad41-e20b726c5d89.png" /></a>
 
-<figure><embed src="https://wakatime.com/share/@lhfaguiar/f593a8d8-a0d3-4792-bb12-3bcdc52b2b61.svg"></embed></figure>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@lhfaguiar/461e321d-9913-4317-acdd-ea776408f3c0.png" /></a>
 
 
 # On being disabled
